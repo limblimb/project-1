@@ -7,3 +7,20 @@ h2 {
     font-weight: bold;
     color: white;
 }
+
+.red {
+    background-color: lightcoral;
+}
+
+.blue {
+    background-color: skyblue;
+}
+
+.green {
+    background-color: mediumspringgreen;
+}
+
+p {
+    font-family: Helvetica;
+    font-weight: bold;
+}
